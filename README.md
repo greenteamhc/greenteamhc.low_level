@@ -1,4 +1,4 @@
-# GREEN TEAM HACKER CLUB - Low Level Programming
+# Low Level Programming do Green Team Hacker Club (GTHC)
 
 >## [Git Classroom](https://classroom.github.com/classrooms/49822738-projeto-grupo-de-estudos-low-level-2024-1)
 
@@ -11,9 +11,9 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 
 ## Objetivos
 **Encontro de estudos:** Terminar o [Rust Book](https://doc.rust-lang.org/book/)
-- Capítulo 1 ao 4 –> Nível Básico
-- Capítulo 5 ao 12 –> Nível Intermediário 
-- Capítulo 12+ -> Nível Avançado
+1. Capítulo 1 ao 4 –> Nível Básico
+2. Capítulo 5 ao 12 –> Nível Intermediário 
+3. Capítulo 12+ -> Nível Avançado
 
 **Projetos:** Realizar um projeto em grupo utilizando a linguagem Rust com base no conteúdo estudado.
 
