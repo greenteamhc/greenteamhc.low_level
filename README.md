@@ -1,7 +1,7 @@
 # Low Level Programming do Green Team Hacker Club (GTHC)
 
 >## [Git Classroom](https://classroom.github.com/classrooms/49822738-green-team-hacker-club-programacao-low-level)
-> [Projeto Básico](https://classroom.github.com/a/QPxH0sq)
+> [Projeto Básico](https://classroom.github.com/assignment-invitations/effdd0f1dfaf8d9612c1c3168f3a184e)
 
 ## Linguagem de Programação
 O grupo de estudos terá como foco a linguagem de programação Rust, utilizando VS Code e a extensão *rust-analyzer* para desenvolvimento.
