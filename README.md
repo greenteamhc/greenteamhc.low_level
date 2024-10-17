@@ -1,53 +1,42 @@
-# Low Level Programming do Green Team Hacker Club (GTHC)
+# Estudos Low Level do Green Team Hacker Club (GTHC)
 
->## [Git Classroom](https://classroom.github.com/classrooms/49822738-green-team-hacker-club-programacao-low-level)
-> [Projeto Básico](https://classroom.github.com/assignment-invitations/effdd0f1dfaf8d9612c1c3168f3a184e)
+> [!IMPORTANT]
+> Link da turma no [Classroom](https://classroom.google.com/c/Njg1NTI4MzIxMTc4?cjc=4ycq2mh)
 
-## Linguagem de Programação
-O grupo de estudos terá como foco a linguagem de programação Rust, utilizando VS Code e a extensão *rust-analyzer* para desenvolvimento.
-Para instalar rust no Linux:
-```
-$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
-```
+## 🖥️ Linguagem de Programação
+O grupo de estudos terá como foco a linguagem de programação de baixo nível, focando em linguagens como C e Rust, e também na análise de arquitetura de computadores e de sistemas.
+
+## 📚 Aulas 
+| Dia | Tema |
+| ------------- | ------------- |
+| XX/XX  | Apresentação  |
 
 ## Objetivos
-**Encontro de estudos:** Terminar o [Rust Book](https://doc.rust-lang.org/book/)
-1. Capítulo 1 ao 4 –> Nível Básico
-2. Capítulo 5 ao 12 –> Nível Intermediário 
-3. Capítulo 12+ -> Nível Avançado
-
-**Projetos:** Realizar um projeto em grupo utilizando a linguagem Rust com base no conteúdo estudado.
+**Projetos:** Realizar um projeto em grupo utilizando a linguagem C ou Rust com base no conteúdo estudado.
 
 ## Regras
 Métricas de engajamento:
 + 50% de comparecimento nas demonstrações
-+ Entrega do projeto e apresentação final
++ Entrega e apresentação do projeto
 
 ## Reuniões
-Dia para estudos de RUST e monitoria:
-+ Estudo do livro, código, ou monitoria com os projetos.
+Dia para estudos do conteúdo e monitoria:
++ Apresentação do conteúdo, código, ou monitoria com os projetos.
+
 Demonstrações:
 Apresentação do progresso no projeto e definir metas para o próximo encontro.
-+ Quinta às 21h - [Discord] (https://discord.gg/72CmC5RKCj)
++ Horário a definir - [Discord](https://discord.gg/72CmC5RKCj)
 
-## Projetos
-No grupo de estudos o participante pode definir um projeto qualquer em Rust para ser realizado, buscando adequar o projeto às suas áreas de interesse e ao nível de expertise na área e na linguagem de programação.
-Os projetos poderão ser relacionados ao livro base ou projetos do interesse do participante. Também poderão ser sugeridos projetos para quem não tenha um definido
+## ⚙️ Projetos
+No grupo de estudos o participante pode definir um projeto qualquer  para ser realizado, buscando adequar o projeto às suas áreas de interesse e ao nível de expertise na área e na linguagem de programação.
+Os projetos poderão ser relacionados ao conteúdo apresentado ou projetos do interesse do participante. Também poderão ser sugeridos projetos para quem não tenha um definido
 
-SUGESTÕES:
-+ Iniciante
-  + Mini-Grep
-  + Pequeno sistema de armazenagem de dados
-  + Calculadora
-  + Editor de Texto
-  + Quiz
-+ Intermediário 
-  + Encriptador de Arquivos
-  + Processamento de Imagens
-  + Ferramenta de Chat
-
- ### Links
+ ### Links Úteis
 + [Forms de Coletas de Dados ](https://forms.gle/mFxw62aE4gY2Hi789)
 + [Livro em PT-BR](https://rust-br.github.io/rust-book-pt-br/)
 + [Livro de Exemplos](https://doc.rust-lang.org/rust-by-example/)
 + [Bibliotecas Rust](crates.io)
++ [x86re](https://x86re.com)
++ [Livro Computadores e Videogames](https://eesc.usp.br/comunicacao-admin/wp-content/uploads/2024/03/Livro_Computadores_e_Videogames.pdf)
++ [Estrutura de Dados Animadas](https://visualgo.net/en)
++ [Low Level Programming Roadmap](https://github.com/gurugio/lowlevelprogramming-university)
