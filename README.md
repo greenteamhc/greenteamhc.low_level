@@ -9,7 +9,8 @@ O grupo de estudos terá como foco a linguagem de programação de baixo nível,
 ## 📚 Aulas 
 | Dia | Tema |
 | ------------- | ------------- |
-| XX/XX  | Apresentação  |
+| 3/11  | Low Level e Revisão  |
+| 10/11  | Heap e Stack  |
 
 ## Objetivos
 **Projetos:** Realizar um projeto em grupo utilizando a linguagem C ou Rust com base no conteúdo estudado.
@@ -25,7 +26,7 @@ Dia para estudos do conteúdo e monitoria:
 
 Demonstrações:
 Apresentação do progresso no projeto e definir metas para o próximo encontro.
-+ Horário a definir - [Discord](https://discord.gg/72CmC5RKCj)
++ Sábados ou Domingos - [Discord](https://discord.gg/72CmC5RKCj)
 
 ## ⚙️ Projetos
 No grupo de estudos o participante pode definir um projeto qualquer  para ser realizado, buscando adequar o projeto às suas áreas de interesse e ao nível de expertise na área e na linguagem de programação.
