@@ -1,16 +1,16 @@
 # Estudos Low Level do Green Team Hacker Club (GTHC)
 
 > [!IMPORTANT]
-> Link da turma no [Classroom](https://classroom.google.com/c/Njg1NTI4MzIxMTc4?cjc=4ycq2mh)
+> Link da turma no [Classroom]()
 
 ## 🖥️ Linguagem de Programação
-O grupo de estudos terá como foco a linguagem de programação de baixo nível, focando em linguagens como C e Rust, e também na análise de arquitetura de computadores e de sistemas.
+O grupo de estudos terá como foco a linguagem de programação de baixo nível, focando em linguagens como C e Rust* (futuramente), e também na análise de arquitetura de computadores e de sistemas.
 
 ## 📚 Aulas 
 | Dia | Tema |
 | ------------- | ------------- |
-| 3/11  | Low Level e Revisão  |
-| 10/11  | Heap e Stack  |
+| 31/08  | Apresentação - Low Level |
+| 10/11  | Revisão C e Memória |
 
 ## Objetivos
 **Projetos:** Realizar um projeto em grupo utilizando a linguagem C ou Rust com base no conteúdo estudado.
@@ -29,8 +29,7 @@ Apresentação do progresso no projeto e definir metas para o próximo encontro.
 + Sábados ou Domingos - [Discord](https://discord.gg/72CmC5RKCj)
 
 ## ⚙️ Projetos
-No grupo de estudos o participante pode definir um projeto qualquer  para ser realizado, buscando adequar o projeto às suas áreas de interesse e ao nível de expertise na área e na linguagem de programação.
-Os projetos poderão ser relacionados ao conteúdo apresentado ou projetos do interesse do participante. Também poderão ser sugeridos projetos para quem não tenha um definido
+A definir.
 
  ### Links Úteis
 + [Forms de Coletas de Dados ](https://forms.gle/mFxw62aE4gY2Hi789)
