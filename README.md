@@ -7,7 +7,10 @@ O grupo de estudos terá como foco a linguagem de programação de baixo nível,
 | Dia | Tema |
 | ------------- | ------------- |
 | 31/08  | Apresentação - Low Level |
-| 7/09  | Revisão C e Memória |
+| 7/09  | Revisão C |
+| 14/09  | Sem aulas |
+| 21/09  | Memoria: Heap e Stack |
+| 27/09  | Encontro Presencial: Debugging |
 
 ## Objetivos
 **Projetos:** Realizar um projeto em grupo utilizando a linguagem C ou Rust com base no conteúdo estudado.
